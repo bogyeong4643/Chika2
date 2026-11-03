@@ -1,14 +1,15 @@
 {
-  "name": "꼬꼬&미미 치카표",
-  "short_name": "치카표",
+  "name": "우리집 살림 재고",
+  "short_name": "살림 재고",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#EEF7FD",
-  "theme_color": "#EEF7FD",
+  "background_color": "#FFFCF0",
+  "theme_color": "#FFFCF0",
+  "lang": "ko",
   "icons": [
-    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
-    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
-    {"src": "icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
   ]
 }
